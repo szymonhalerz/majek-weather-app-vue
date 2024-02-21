@@ -40,7 +40,7 @@ const input = ref('')
 const temp = ref('')
 const humidity = ref('')
 
-const weatherImg = ref('/img/unknown.png')
+const weatherImg = ref('img/unknown.png')
 const weatherName = ref('')
 
 const getWeather = () => {
